@@ -1,0 +1,3291 @@
+fileFormatVersion: 2
+guid: ad2c6c067356da8439d36cdc45955906
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Tank_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 565
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f24baf26a8d44196244e9b5ebd094
+      internalID: -1963720756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 565
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1ffc95a7dd91479358b29b34a07e4
+      internalID: -1303943162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 565
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c19b41807259429632edf5f700fdd
+      internalID: -677396807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 568
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048eb856e1f5c2342be74bcff1ad0886
+      internalID: -1328801541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 565
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4a57033eecc9429277b682f8618bb
+      internalID: -1334610768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 565
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366068a089a944c46a2dfd9f659acf6c
+      internalID: -1250025753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 565
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd11b98ab031b5c48afb940c5a7c6d03
+      internalID: -735228513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 568
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0eda71b55bc704381a8e725f5cdaa4
+      internalID: 1505643481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 535
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ccbcb46d043f245934437f53873f81
+      internalID: 1605660126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 533
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216cb30be9d4fc4aafd49b67ae6a3cf
+      internalID: -1965065859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 532
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbadfd0e74728694c900204a20547e6f
+      internalID: 594678197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 533
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde1b28718c9494984592ab15ca9576
+      internalID: -531487998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 535
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4edd4904c2c39b419e95b77fa921a96
+      internalID: -1215786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 533
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7afae8e3e6854bbdf3b847e14033d
+      internalID: 1105083974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 534
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1eb9b2a17f4bd4fb2cc4e4cf3b04f2
+      internalID: -785722428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 533
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd28e3d4dd3eb42a15dc6057959d5d
+      internalID: 1676509462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 499
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50666d371f99094f90a2508e1aeae7e
+      internalID: -490007637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 499
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a21ceeaaa7d3be4ea5182bc8b5089ec
+      internalID: -1993936636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 499
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a33368f460b4343a9f2d1dd66a3112
+      internalID: -1254302959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 502
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494737d67f64834ba870cd075cced83
+      internalID: 554322240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 499
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1379eae108556046b5bdcd5db955e4a
+      internalID: -1101345651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 499
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4209564f9f24aa40b2a7ce15cb68783
+      internalID: -764605852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 499
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2394c97952c03d34a851fbc7d8d43f23
+      internalID: -322292520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 502
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b563db925e8734ea38edf04e92bfa7
+      internalID: 92026142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 469
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b326056c76a6f48bb97a3c2d7fe84a
+      internalID: -769049292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 467
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67671bed2f8086b41881046cfb337c8c
+      internalID: -648689338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 466
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5b239da2c91647bc54ae31ee54171
+      internalID: 1430528561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 467
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b53735795d4d4781a28b38dae8f3f
+      internalID: -329712901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 469
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443ccf9cd32d2347b2ac83742afd53c
+      internalID: -1756220543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 467
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b392efa312bd034282671143c652416
+      internalID: -967222132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 468
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4164dc6abdcab409ec9956ea20a0fe
+      internalID: 485082108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 467
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abea37195adf5c4cbfd043e6713d0ee
+      internalID: -531122563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 433
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857cae30878bd894e9d10d9fbefe1851
+      internalID: 567320813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 433
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b2b578580f4446a65f9bb45de7495
+      internalID: -774184414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 433
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c9623f3231db48a790d38074bc45d
+      internalID: -1756691656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 436
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcb364ebd89e734984b818a5bdf4144
+      internalID: -750264124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2475b1605677b7945bce53fb18c318fd
+      internalID: -871830321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 433
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b7a80a24d210448af83877b427d903
+      internalID: -957394782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 433
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c2d7b57d8de8d4d99a0f802d21054a
+      internalID: 1832126932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 436
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd8e8b628b1aaa4d827a2e4516d356a
+      internalID: -943458104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 403
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c6025e813a504687adfd6885c1037
+      internalID: -339879323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 401
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1c580005b883840b2c23c71987ad35
+      internalID: 1881860064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679f696c2e3c1b408ad6a19b7b437d9
+      internalID: 291727107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 401
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a709a7afd0cd53d4a80c9eae83f8e08d
+      internalID: 1250586973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 403
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2a6813dff97b4f825e177c6186a70
+      internalID: -1651907724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 401
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c5005169bec448a1ac1434e340ab9
+      internalID: -1960981061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 402
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3113bf93f61b0ae4aba1b3419057e17e
+      internalID: 364825235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_47
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 401
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58672742949904eab7027a79b54f26
+      internalID: -727862896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 367
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea98ed587f2b4b4d90538a3df0bb74d
+      internalID: -533808240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 367
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95620aab2e35e274c9b99786cabd1c60
+      internalID: 1576592215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 367
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e09ee510e4159c4384f6f8641084c07
+      internalID: 1076223646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 370
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab1d7b448968c741a8f1b6b6ff17159
+      internalID: -994297849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 367
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1318712ad63230419300c9add0d4219
+      internalID: -108250419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 367
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7a8e8833f9094d91dbff4f37e8de4
+      internalID: -2121230600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 367
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00208bdbc4b9bc245bb334bda36d8636
+      internalID: -1034530321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 370
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c8d0b9eea8cb42aa035fc4febc956
+      internalID: 1591733035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 337
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03ae037913f2d4caaafef0d3115e44
+      internalID: 226340998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 335
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15afd0d3cd5f24241bfa6aa4ea379742
+      internalID: -948881694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 334
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56c2d2fd1e08b4a889472d7fac00b7
+      internalID: -2033918080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 335
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046bd4288dced4f4d8888f3d41133502
+      internalID: 1914720037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 337
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdcb9b17796ca42ada472174ac372f
+      internalID: 655571851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 335
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754c607fbcfdfd47ab9f091b55818ca
+      internalID: 321164102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 336
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950cf6fe197598438d1d8f3f3b4f34d
+      internalID: 1646796489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 335
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc663099204b8c499c9f1eee77aea6a
+      internalID: 203404679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 301
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd174389f6bad4847bb6ed1f6aef95eb
+      internalID: 1312000438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 301
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68934629316cb5f408862a27d5bf2a37
+      internalID: -199722184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 301
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f279d65518e4f24f9bf23e48d75b958
+      internalID: -1806719868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 304
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d1353bed8ef4f4b8108b970c81b104
+      internalID: 2037740722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_68
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 301
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923aeee7c2ea8841ac6069a57fc8f13
+      internalID: 1704978096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_69
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 301
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4856f2271ad44dad127feedc8ea64
+      internalID: -1717543158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 301
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc6d9d6de3e0fb4a99cc5aba0fdd773
+      internalID: -2129750461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_71
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 304
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a7c43e8f8ab84e85cccb154a2f0c4
+      internalID: -1811995687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 271
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195115f6569dfd42bb0a47aec649d1b
+      internalID: -1127840536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_73
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 269
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da5e765a9410346a97beaf2970c34d
+      internalID: -518901897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 268
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84c2b9de7097345ba4bea0cf8559b8
+      internalID: 34948286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 269
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431a717883f5ef40ac304389b6d179e
+      internalID: -299915800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 271
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e411e0f3954dc4fb8daf25b2b3cae8
+      internalID: -20352814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 269
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c7552bce1fc44a9a326cfe8adf042
+      internalID: -1238177882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_78
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 270
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73ee0695322ec4996780fa59366c09
+      internalID: 209343570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_79
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 269
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51fd6f0382c8343a4a714b819f96c6
+      internalID: -725173850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 235
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca0c71dfa92c446b859dcace8f0fc9
+      internalID: -88601417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 235
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c0c66ecf95884daae08eb0ce4e4ed
+      internalID: 995769530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 235
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87ab4d47e9a6d4186f4e2db942f225
+      internalID: -2027860536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 238
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e1c4391522484b843547ab7309c6f
+      internalID: 1673748228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 235
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bbbc414169ac042a6036675e27003b
+      internalID: -383188829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 235
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9574fdc861e870d4b80666860a0b17e4
+      internalID: 205255276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 235
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bc836cd092c284ba793b3835d9e01f
+      internalID: 604156729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 238
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db483edb5c7c204cb0ee53fbb0cba43
+      internalID: -1814923767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4079bce4d7e9d4b869b83a94fd8848
+      internalID: -283142291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 203
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb73bfffea62a41b925858eaeb4261
+      internalID: -537116033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 202
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3791156a81fd1540b3abee362d4d710
+      internalID: -311690889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576a2e89de810248a7803698f58648b
+      internalID: 842186947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 205
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3c71f26abb034eb77c3d060ffda39
+      internalID: -1574663545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_93
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 203
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342fdbee4476fc478a36c3e3e9c1a79
+      internalID: 1999055328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_94
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 204
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea1acbec8507a4cb7a0a9cf4aadce6
+      internalID: -1989488882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 203
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb377e839971b734aa9e751448361b94
+      internalID: 872577275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 169
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b8964a8803934d9c7754fb8b85875
+      internalID: 1351116846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 169
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6116c760cbc5c5b408fed52cbd1322b2
+      internalID: -741545815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_98
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 169
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755d348317d58f74ea5a24c0fa7ee3a3
+      internalID: 489187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 172
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e85e1549973a47992a76a6cf4ec9e
+      internalID: -1521662636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 169
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a0783a24beaaf479f40cc8bca196b6
+      internalID: -493602479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_101
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 169
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19f328d37e21fd4f9ea22ce4b6e9e11
+      internalID: -2009137474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 169
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8093d53b8b842b74ebdf0c6297a28f28
+      internalID: -2020347089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_103
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 172
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e533ee2afbe9b645844037435de1986
+      internalID: 651092114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493dd8cbbec6e4e4898e85d7e8c43340
+      internalID: -607254159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_105
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 137
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1784e7f95911b479d9f67dd9a6b83f
+      internalID: 327406718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 136
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da264a22456d90b49a325b0d9468c5a9
+      internalID: 1965197657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 137
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c29f5d76fdeb498255e33ed0ad193
+      internalID: 779373966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_108
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5134f0e6e742964418f8581f72fd575f
+      internalID: -912118371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_109
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 137
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb985afd9bbb08c4892641193d2438d1
+      internalID: 214999900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 138
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2934aaaf56288754da10f1ff092b7955
+      internalID: -2024169850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_111
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 137
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd810f94d859274787106e50bdd7766
+      internalID: 2053954286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34fafaeee0e0fe45b3f04ef4ea4bdbe
+      internalID: -600954942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 103
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d81157f111bce40b37f62095f9c196
+      internalID: -658207027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_114
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 103
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fd9c7d76754040bf629e19e74972f
+      internalID: -256168561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_115
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 106
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8111976278c6d4996599bf5b7f4d0c
+      internalID: -372438516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 103
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10d2d9112ee34643a860992de82aaf1
+      internalID: 1187691145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_117
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 103
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6271beffc99bb4d8e90daa05363a82
+      internalID: 1154108627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_118
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 103
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0dc68183330447b81f81e06fdfca0
+      internalID: 1335920394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_119
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a662dd8f7f6f664d9569631b158940c
+      internalID: -44582832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 73
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a508a0c49ef4cbc4e83910085614d49f
+      internalID: 29800856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_121
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3e9b76593c8f41a98c7b8b895c1ef
+      internalID: 1875396250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620461645bc0b2948969cedb296ff067
+      internalID: 517029065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_123
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd40b6c1defebd4f914fede47f200ec
+      internalID: 1176511064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_124
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16612e5b2ed6bfb4a9f165699134a0e4
+      internalID: -44163044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_125
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 71
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc27ca7ea1efc74c86d834c7323f490
+      internalID: -364847735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_126
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d2c1f8c99cf342a66910fb7a61ab6
+      internalID: 2081092038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_127
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 71
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88be29d21c8d1c4eb15b6fb37dbbe34
+      internalID: 1845477310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_128
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 37
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae958b24c5ebd241963f79151fb5aae
+      internalID: -881818871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_129
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 37
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c861574810a6b4cbea5f8542c9b0a2
+      internalID: 645919795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_130
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 37
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b43e257d6ac15a428091b443ec7140c
+      internalID: -838058712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_131
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 40
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584781ecb05ca7944894099601481b86
+      internalID: -1902898018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_132
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 37
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a63cdc4f7df625428c41831f25303ae
+      internalID: -36980697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_133
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b5d9b23fddd749ac4288ee3d5b6b0
+      internalID: 813624399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_134
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 37
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec1eb2526e85d468344a2a41ecd70c
+      internalID: -1283530012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_135
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7472f54b720ce3340abc363513bd56ef
+      internalID: 1162458253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_136
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a91c060b5be654594775da2fbb5c15
+      internalID: 1746694518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_137
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c89549156b954f4f8769c71a5ef48fd
+      internalID: -247078726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_138
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9431f16776a8443ada85fc6d76292b
+      internalID: 1640672039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_139
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca12607a82a97478b5689582e21d60
+      internalID: 410479451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_140
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 7
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4063fb5184364da753cb0187a78ec
+      internalID: 1096729258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_141
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4c175cbc04a348ba2dca3b9f14d92
+      internalID: 486874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_142
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 6
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc48a00effc7014a940b3aded87ef99
+      internalID: -293791004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Tank_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082571f32e79694dbfea7d4e25c5cef
+      internalID: 1826945494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Heavy Tank_0: -1963720756
+      Heavy Tank_1: -1303943162
+      Heavy Tank_10: 594678197
+      Heavy Tank_100: -493602479
+      Heavy Tank_101: -2009137474
+      Heavy Tank_102: -2020347089
+      Heavy Tank_103: 651092114
+      Heavy Tank_104: -607254159
+      Heavy Tank_105: 327406718
+      Heavy Tank_106: 1965197657
+      Heavy Tank_107: 779373966
+      Heavy Tank_108: -912118371
+      Heavy Tank_109: 214999900
+      Heavy Tank_11: -531487998
+      Heavy Tank_110: -2024169850
+      Heavy Tank_111: 2053954286
+      Heavy Tank_112: -600954942
+      Heavy Tank_113: -658207027
+      Heavy Tank_114: -256168561
+      Heavy Tank_115: -372438516
+      Heavy Tank_116: 1187691145
+      Heavy Tank_117: 1154108627
+      Heavy Tank_118: 1335920394
+      Heavy Tank_119: -44582832
+      Heavy Tank_12: -1215786409
+      Heavy Tank_120: 29800856
+      Heavy Tank_121: 1875396250
+      Heavy Tank_122: 517029065
+      Heavy Tank_123: 1176511064
+      Heavy Tank_124: -44163044
+      Heavy Tank_125: -364847735
+      Heavy Tank_126: 2081092038
+      Heavy Tank_127: 1845477310
+      Heavy Tank_128: -881818871
+      Heavy Tank_129: 645919795
+      Heavy Tank_13: 1105083974
+      Heavy Tank_130: -838058712
+      Heavy Tank_131: -1902898018
+      Heavy Tank_132: -36980697
+      Heavy Tank_133: 813624399
+      Heavy Tank_134: -1283530012
+      Heavy Tank_135: 1162458253
+      Heavy Tank_136: 1746694518
+      Heavy Tank_137: -247078726
+      Heavy Tank_138: 1640672039
+      Heavy Tank_139: 410479451
+      Heavy Tank_14: -785722428
+      Heavy Tank_140: 1096729258
+      Heavy Tank_141: 486874
+      Heavy Tank_142: -293791004
+      Heavy Tank_143: 1826945494
+      Heavy Tank_15: 1676509462
+      Heavy Tank_16: -490007637
+      Heavy Tank_17: -1993936636
+      Heavy Tank_18: -1254302959
+      Heavy Tank_19: 554322240
+      Heavy Tank_2: -677396807
+      Heavy Tank_20: -1101345651
+      Heavy Tank_21: -764605852
+      Heavy Tank_22: -322292520
+      Heavy Tank_23: 92026142
+      Heavy Tank_24: -769049292
+      Heavy Tank_25: -648689338
+      Heavy Tank_26: 1430528561
+      Heavy Tank_27: -329712901
+      Heavy Tank_28: -1756220543
+      Heavy Tank_29: -967222132
+      Heavy Tank_3: -1328801541
+      Heavy Tank_30: 485082108
+      Heavy Tank_31: -531122563
+      Heavy Tank_32: 567320813
+      Heavy Tank_33: -774184414
+      Heavy Tank_34: -1756691656
+      Heavy Tank_35: -750264124
+      Heavy Tank_36: -871830321
+      Heavy Tank_37: -957394782
+      Heavy Tank_38: 1832126932
+      Heavy Tank_39: -943458104
+      Heavy Tank_4: -1334610768
+      Heavy Tank_40: -339879323
+      Heavy Tank_41: 1881860064
+      Heavy Tank_42: 291727107
+      Heavy Tank_43: 1250586973
+      Heavy Tank_44: -1651907724
+      Heavy Tank_45: -1960981061
+      Heavy Tank_46: 364825235
+      Heavy Tank_47: -727862896
+      Heavy Tank_48: -533808240
+      Heavy Tank_49: 1576592215
+      Heavy Tank_5: -1250025753
+      Heavy Tank_50: 1076223646
+      Heavy Tank_51: -994297849
+      Heavy Tank_52: -108250419
+      Heavy Tank_53: -2121230600
+      Heavy Tank_54: -1034530321
+      Heavy Tank_55: 1591733035
+      Heavy Tank_56: 226340998
+      Heavy Tank_57: -948881694
+      Heavy Tank_58: -2033918080
+      Heavy Tank_59: 1914720037
+      Heavy Tank_6: -735228513
+      Heavy Tank_60: 655571851
+      Heavy Tank_61: 321164102
+      Heavy Tank_62: 1646796489
+      Heavy Tank_63: 203404679
+      Heavy Tank_64: 1312000438
+      Heavy Tank_65: -199722184
+      Heavy Tank_66: -1806719868
+      Heavy Tank_67: 2037740722
+      Heavy Tank_68: 1704978096
+      Heavy Tank_69: -1717543158
+      Heavy Tank_7: 1505643481
+      Heavy Tank_70: -2129750461
+      Heavy Tank_71: -1811995687
+      Heavy Tank_72: -1127840536
+      Heavy Tank_73: -518901897
+      Heavy Tank_74: 34948286
+      Heavy Tank_75: -299915800
+      Heavy Tank_76: -20352814
+      Heavy Tank_77: -1238177882
+      Heavy Tank_78: 209343570
+      Heavy Tank_79: -725173850
+      Heavy Tank_8: 1605660126
+      Heavy Tank_80: -88601417
+      Heavy Tank_81: 995769530
+      Heavy Tank_82: -2027860536
+      Heavy Tank_83: 1673748228
+      Heavy Tank_84: -383188829
+      Heavy Tank_85: 205255276
+      Heavy Tank_86: 604156729
+      Heavy Tank_87: -1814923767
+      Heavy Tank_88: -283142291
+      Heavy Tank_89: -537116033
+      Heavy Tank_9: -1965065859
+      Heavy Tank_90: -311690889
+      Heavy Tank_91: 842186947
+      Heavy Tank_92: -1574663545
+      Heavy Tank_93: 1999055328
+      Heavy Tank_94: -1989488882
+      Heavy Tank_95: 872577275
+      Heavy Tank_96: 1351116846
+      Heavy Tank_97: -741545815
+      Heavy Tank_98: 489187
+      Heavy Tank_99: -1521662636
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
