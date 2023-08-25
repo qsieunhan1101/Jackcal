@@ -45,7 +45,7 @@ public class WallCannon : MonoBehaviour
         if(delayCounter <= 0)
         {
             delayCounter = delay;
-            transform.rotation = Quaternion.Euler(transform.rotation.y, transform.rotation.x, angler.checkAngle() * -1);
+            transform.rotation = Quaternion.Euler(transform.rotation.y, transform.rotation.x, angler.CheckAngle() * -1);
         }
         else
         {

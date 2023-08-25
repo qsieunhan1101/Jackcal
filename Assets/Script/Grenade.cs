@@ -43,7 +43,7 @@ public class Grenade : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("WallTank") || collision.gameObject.CompareTag("House"))
+        if (collision.gameObject.CompareTag("WallTank") || collision.gameObject.CompareTag("House") || collision.gameObject.CompareTag("Door"))
         {
             StartCoroutine(CollideOpject());
 

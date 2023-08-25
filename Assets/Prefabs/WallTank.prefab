@@ -9,11 +9,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 811001314723251637}
+  - component: {fileID: 811001314723251632}
   - component: {fileID: 811001314723251635}
   - component: {fileID: 811001314723251634}
-  - component: {fileID: 811001314723251632}
-  - component: {fileID: 8557545110132181255}
   - component: {fileID: 537659268002126888}
+  - component: {fileID: 8557545110132181255}
   m_Layer: 0
   m_Name: WallTank
   m_TagString: WallTank
@@ -38,48 +38,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &811001314723251635
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 811001314723251529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81e3fd92a4db643419ba71c8a9c2c559, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  angle: 0
-  A: {x: 0, y: 0}
-  B: {x: 0, y: 0}
-  C: {x: 0, y: 0}
---- !u!114 &811001314723251634
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 811001314723251529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 92c2856a42d34cf4f80267052e628ff2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TankChild: {fileID: 811001315009283721}
-  nextFireTime: 0
-  bullet: {fileID: 5698781793439959626, guid: 84b86dd2edd3f144ea0275b1487861c4, type: 3}
-  bulletParent: {fileID: 811001315772696731}
-  fireRate: 1
-  lineOfSite: 8.42
-  shootingRange: 6.5
-  delay: 0.3
-  delayCounter: 0
-  couterShoot: 0
-  bulletsPerSalvo: 3
-  salvoInterval: 2
-  fireTimer: 0
-  bulletsShot: 0
 --- !u!212 &811001314723251632
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -132,6 +90,61 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &811001314723251635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811001314723251529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e3fd92a4db643419ba71c8a9c2c559, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  angle: 0
+  A: {x: 0, y: 0}
+  B: {x: 0, y: 0}
+  C: {x: 0, y: 0}
+--- !u!114 &811001314723251634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811001314723251529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c2856a42d34cf4f80267052e628ff2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TankChild: {fileID: 811001315009283721}
+  nextFireTime: 0
+  bullet: {fileID: 5698781793439959626, guid: 84b86dd2edd3f144ea0275b1487861c4, type: 3}
+  bulletParent: {fileID: 811001315772696731}
+  fireRate: 1
+  lineOfSite: 8.42
+  shootingRange: 6.5
+  delay: 0.3
+  delayCounter: 0
+  couterShoot: 0
+  bulletsPerSalvo: 3
+  salvoInterval: 2
+  fireTimer: 0
+  bulletsShot: 0
+--- !u!114 &537659268002126888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811001314723251529}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df95db8b5a0c4c946965065ab9f9a4ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tankChild: {fileID: 811001315009283721}
 --- !u!61 &8557545110132181255
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -158,19 +171,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.667614, y: 0.77272415}
   m_EdgeRadius: 0
---- !u!114 &537659268002126888
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 811001314723251529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df95db8b5a0c4c946965065ab9f9a4ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tankChild: {fileID: 811001315009283721}
 --- !u!1 &811001315009283721
 GameObject:
   m_ObjectHideFlags: 0

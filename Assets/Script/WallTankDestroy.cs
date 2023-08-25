@@ -16,7 +16,6 @@ public class WallTankDestroy : MonoBehaviour
         if (collision.gameObject.name == "Player" || collision.gameObject.CompareTag("PlayerBullet") || collision.gameObject.CompareTag("Grenade"))
         {
             tankChild.GetComponent<Animator>().SetTrigger("Destroy");
-
             Destroy(gameObject, 0.7f);
         }
     }

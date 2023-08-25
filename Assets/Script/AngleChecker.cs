@@ -15,7 +15,7 @@ public class AngleChecker : MonoBehaviour
     }
 
 
-    public float checkAngle()
+    public float CheckAngle()
     {
         A = new Vector2(transform.position.x, transform.position.y);
         B = new Vector2(player.transform.position.x,player.transform.position.y);

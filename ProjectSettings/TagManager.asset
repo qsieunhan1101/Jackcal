@@ -9,6 +9,8 @@ TagManager:
   - WallTank
   - EnemyBullet
   - Map
+  - House
+  - Door
   layers:
   - Default
   - TransparentFX
