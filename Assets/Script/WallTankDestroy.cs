@@ -13,11 +13,11 @@ public class WallTankDestroy : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.name == "Player" || collision.gameObject.CompareTag("PlayerBullet"))
+        if (collision.gameObject.name == "Player" || collision.gameObject.CompareTag("PlayerBullet") || collision.gameObject.CompareTag("Grenade"))
         {
             tankChild.GetComponent<Animator>().SetTrigger("Destroy");
 
-            Destroy(gameObject, 0.5f);
+            Destroy(gameObject, 0.7f);
         }
     }
 }
